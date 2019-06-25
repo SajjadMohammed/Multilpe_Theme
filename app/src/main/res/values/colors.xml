@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Default mode color-->
+    <color name="colorPrimary">#FF276899</color>
+    <color name="colorPrimaryDark">#1B4D72</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColor">#C2185B</color>
+    <color name="backgroundColorLight">#fafafa</color>
+    <color name="buttonTextColor">#FF222222</color>
+    <!--for button style colors on default mode-->
+    <color name="buttonBackground">#fafafa</color>
+    <color name="buttonClick">#D3D3D3</color>
+
+    <!--Night mode colors-->
+    <color name="colorPrimaryNight">#FF212D3B</color>
+    <color name="colorPrimaryDarkNight">#FF1A242E</color>
+    <color name="colorAccentNight">#15AC17</color>
+    <color name="backgroundColorNight">#FF1D2733</color>
+    <color name="textColorNight">#15AC17</color>
+    <color name="buttonTextColorNight">#FFE9E8E8</color>
+    <color name="navigationColor">#FF212D3B</color>
+    <!--for button style colors on dark mode-->
+    <color name="buttonBackgroundNight">#FF1D2733</color>
+    <color name="buttonClickNight">#FF212D3B</color>
+
+</resources>

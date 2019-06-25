@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="textColor">@color/textColor</item>
+        <item name="buttonTextColor">@color/buttonTextColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="backgroundColor">@color/backgroundColorLight</item>
+        <!--button style on default mode-->
+        <item name="buttonBackground">@color/buttonBackground</item>
+        <item name="buttonClicked">@color/buttonClick</item>
+    </style>
+
+    <style name="NightMode" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/colorAccentNight</item>
+        <item name="backgroundColor">@color/backgroundColorNight</item>
+        <item name="colorButtonNormal">@color/backgroundColorNight</item>
+        <item name="textColor">@color/textColorNight</item>
+        <item name="buttonTextColor">@color/buttonTextColorNight</item>
+        <!--button style on dark mode-->
+        <item name="buttonBackground">@color/buttonBackgroundNight</item>
+        <item name="buttonClicked">@color/buttonClickNight</item>
+
+        <item name="android:navigationBarColor">@color/navigationColor</item>
+    </style>
+</resources>
